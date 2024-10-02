@@ -3,10 +3,7 @@
 
 <head>
 	<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var badgeContainer = document.getElementById('__framer-badge-container');
-    if (badgeContainer) {
-      badgeContainer.parentNode.removeChild(badgeContainer);
+
     }
   });
 </script>
@@ -108,12 +105,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 </HEAD>
 <BODY>
 	<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var badgeContainer = document.getElementById('__framer-badge-container');
-    if (badgeContainer) {
-      badgeContainer.parentNode.removeChild(badgeContainer);
-    }
-  });
+
 </script>
 <H1 ALIGN=Center>Index of locally available sites:</H1>
 	<TABLE BORDER="0" WIDTH="100%" CELLSPACING="1" CELLPADDING="0">
@@ -153,20 +145,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 	<td id="footer"><small>&copy; 2008 Xavier Roche & other contributors - Web Design: Leto Kauler.</small></td>
 	</tr>
 </table>
-  document.addEventListener('DOMContentLoaded', function () {
-    var badgeContainer = document.getElementById('__framer-badge-container');
-    if (badgeContainer) {
-      badgeContainer.parentNode.removeChild(badgeContainer);
-    }
-  });
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    var badgeContainer = document.getElementById('__framer-badge-container');
-    if (badgeContainer) {
-      badgeContainer.parentNode.removeChild(badgeContainer);
-    }
-  });
-</script>
+ 
 
 </body>
 
