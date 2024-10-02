@@ -107,6 +107,14 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 	<TITLE>Local index - HTTrack</TITLE>
 </HEAD>
 <BODY>
+	<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var badgeContainer = document.getElementById('__framer-badge-container');
+    if (badgeContainer) {
+      badgeContainer.parentNode.removeChild(badgeContainer);
+    }
+  });
+</script>
 <H1 ALIGN=Center>Index of locally available sites:</H1>
 	<TABLE BORDER="0" WIDTH="100%" CELLSPACING="1" CELLPADDING="0">
 		<TR>
