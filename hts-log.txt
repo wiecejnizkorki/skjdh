@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Oct 2024 11:17:24 at https://jubilant-members-948332.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pl, en, *" https://jubilant-members-948332.framer.app/ -O1 "C:\Moje Strony Web\hh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:17:30	Error: 	Exit requested by shell or user
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/works/concrete
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/q4YrJGjTzobJuuEqtx9sH93Iyc.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/works/bruce
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/Lz1b6QzYwtI4alfnMnEYe6Bnxww.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/works/leo
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/2hugZy1MMxMnDp2ZaxXGuv844.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/works/vitrine
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/inbpc0bNmoxs7jnivRAGmRy7g.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/works/john
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/Oxgcp8OOtin4v3JPgAAqUtgsYQM.jpeg
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/works/frame-studio
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/z6LtXF9DTCV0yFWMLz0dNVm8E.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/articles/the-intersection-of-creativity-and-technology-in-design
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/articles/my-journey-of-a-digital-designer-from-nyc-to-the-world
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/articles/10-key-elements-of-successful-brand-design
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/articles/how-to-elevate-your-startup-with-strategic-design
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/articles/the-role-of-ux-ui-in-modern-digital-design
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/articles/case-study-transforming-a-brand-s-digital-presence
+11:17:49	Warning: 	File not added due to mirror cancel: https://jubilant-members-948332.framer.app/articles/future-trends-in-digital-design
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/wBf8VdKR4vyl9jTmp8gaqkLc.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/5dqrHNkWmuUDdGLzMreWmp3PdXE.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/jOkZGLQSmsAgMRzWyDjmg0Ccl0.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/bwjj31rslvdgLpCQmfKFBOwFUMw.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/Gs8vPcWyTxIr9qDsJlHPdJTxTQ.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/0o44wjABey0Y0MQWpWb9WIHxjU.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/6c1osa1T4bagtP2D58KPcchf3pY.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/xyrq0Gc88mpCTHxm4tYlIf0FMrg.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/M18cILX3awBuSsWaGrJ1L3mG0dE.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/RsIptrhxJKEA4XDro6lD3fa9yM.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/naI8lN4ByMkteL8ZAaqReFsz4.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/ecJHRnhvSeZTHrsQUcXEK7fKEKA.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/vH3EMeg4CYJLcYajHFNSPDNJm3E.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/GrB2XhB9BC4aL73NaAM9sH3BaD0.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/KSJlRpphBXSg3IuYAMmcGu6VE.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/XfPO4SiVVOLe8nmcMHoPA1jVU.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/kV71CXzBHfDEwNUyloC1GHrPE.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/Y7kixmBF2yiMVxaIClZNjSuYBI.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/4TTGuiCKXJ48GtsRNQ9J8AvUw8.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/w08nmI9Qvw3H841m5vyeSGdoYiE.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/IVrm4KnZuyo2UNXGgmbAlGJcc.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/EkBKCI3onCcPhHwhrjb1u492k.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/MPt9MWH4tRgegg6tpaGR5yaVc.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/LBnGTBhL980eqKoT7fL8HPc8o.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/KgyNTaD1qbATuXF9JQRlrSjCeRI.jpg
+11:17:49	Warning: 	File not added due to mirror cancel: https://framerusercontent.com/images/25nkFLEyiiEEdEnw65eRcNALO8.jpg
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 55 links scanned, 54 files written (16269267 bytes overall), no files updated [2350 bytes received at 90 bytes/sec]
+(1 errors, 45 warnings, 0 messages)
